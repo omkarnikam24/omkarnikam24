@@ -11,6 +11,7 @@
 I am experienced in developing web applications.
 
 ![Omkar Nikam's github stats](https://github-readme-stats.vercel.app/api?username=omkarnikam24&show_icons=true&theme=calm)
+<br/>
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=omkarnikam24&theme=tokyonight)
 
 
