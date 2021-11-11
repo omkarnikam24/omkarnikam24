@@ -5,7 +5,7 @@
 [![Twitter: Omkar Nikam](https://img.shields.io/twitter/follow/omkarnikam24?style=social)](https://twitter.com/omkarnikam24)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=omkarnikam24&left_color=gray&right_color=blue)
 
-# Hi 🙋🏻 , I'm Omkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+### Hi 🙋🏻 , I'm Omkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </br>
 
 I am experienced in developing web applications.
