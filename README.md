@@ -1,7 +1,7 @@
 ## Software Engineer | Problem Solver | Learner
 
 [![GitHub omkarnikam24](https://img.shields.io/github/followers/omkarnikam24?label=follow&style=social)](https://github.com/omkarnikam24)
-[![Linkedin: Omkar Nikam](https://img.shields.io/badge/-Omkar%20Nikam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkarnikam24/)](https://www.linkedin.com/in/omkarnikam24/)
+[![Linkedin: Omkar Nikam](https://img.shields.io/badge/-Omkar%20Nikam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-nikam/)](https://www.linkedin.com/in/omkar-nikam/)
 [![Twitter: Omkar Nikam](https://img.shields.io/twitter/follow/omkarnikam24?style=social)](https://twitter.com/omkarnikam24)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=omkarnikam24&left_color=gray&right_color=blue)
 
